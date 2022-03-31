@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi 👋, I'm a research scientist and developer.
+- 📖 I'm pursuing my PhD at the intersection of continuum mechanics, theoretical modeling (asymptotics and perturbation theory), numerical algorithms, software-at-scale and metamaterial design.
+- 🔭 I’m currently working on `SophT`, a HPC library that simulates the dynamics of soft elastic bodies and slender rods, and their interactions with viscous flows.
+- 🥇 I'm also a contributor to [`PyElastica`](https://www.cosseratrods.org/), an open-source software for the simulation of assemblies of slender, one-dimensional structures using Cosserat Rod theory.
+- 🌱 I’m currently learning computational statistics and reinforcement/machine learning.
+
+<div align="center">
+ 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhosale2&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhosale2&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skim0119)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</div>
+
+Feel free to visit my [website](https://bhosale2.github.io/) and [Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en) profile.
 
 <!--
 **bhosale2/bhosale2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
