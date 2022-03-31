@@ -6,17 +6,15 @@
 
 <div align="center">
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhosale2&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhosale2&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skim0119)](https://github.com/anuraghazra/github-readme-stats) -->
-
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhosale2&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to visit my [website](https://bhosale2.github.io/) and [Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en) profile.
 
 <!--
 **bhosale2/bhosale2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhosale2&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 Here are some ideas to get you started:
 
