@@ -27,6 +27,7 @@
  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white"/>
  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
+ <img src="https://img.shields.io/badge/RStudio-019733?style=flat&logo=rstudio&logoColor=white"/>
 </p>
 <p>
  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
