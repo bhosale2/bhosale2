@@ -35,7 +35,7 @@
 </p>
  </div>
 
-Feel free to visit my [website](https://bhosale2.github.io/) and [Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en) profile.
+Feel free to visit my [LinkedIn](https://www.linkedin.com/in/yashrajbhosale/), [website](https://bhosale2.github.io/) and [Scholar](https://scholar.google.com/citations?user=_yb-ZGYAAAAJ&hl=en) profile.
 
 <!--
 **bhosale2/bhosale2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
