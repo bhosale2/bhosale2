@@ -1,6 +1,6 @@
 ### Hi 👋, I'm a research scientist and developer.
 - 📖 I'm pursuing my PhD at the intersection of continuum mechanics, theoretical modeling (asymptotics and perturbation theory), numerical algorithms, software-at-scale and metamaterial design.
-- 🔭 I’m currently working on `SophT`, a HPC library that simulates the dynamics of soft elastic bodies and slender rods, and their interactions with viscous flows.
+- 🔭 I’m currently working on [`SophT`](https://github.com/SophT-Team/SophT-Simulator), a HPC library that simulates the dynamics of soft elastic bodies and slender rods, and their interactions with viscous flows.
 - 🥇 I'm also a developer of [`PyElastica`](https://www.cosseratrods.org/) and [`MagnetoPyElastica`](https://github.com/armantekinalp/MagnetoPyElastica), open-source softwares for the simulation of assemblies of slender, one-dimensional structures using Cosserat Rod theory.
 - 🌱 I’m currently learning computational statistics and reinforcement/machine learning.
 
